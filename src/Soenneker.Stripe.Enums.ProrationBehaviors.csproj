@@ -14,7 +14,7 @@
         <AssemblyName>Soenneker.Stripe.Enums.ProrationBehaviors</AssemblyName>
         <PackageId>Soenneker.Stripe.Enums.ProrationBehaviors</PackageId>
         <PackageTags>stripe enums prorationbehaviors billing invoicing charging payment processing status proration behavior stripeprorationbehavior enum csharp dotnet c# .net</PackageTags>
-        <Copyright>Copyright © 2025 Jake Soenneker</Copyright>
+        <Copyright>Copyright © 2025-2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
