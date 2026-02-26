@@ -1,4 +1,4 @@
-﻿using Intellenum;
+using Soenneker.Gen.EnumValues;
 
 namespace Soenneker.Stripe.Enums.ProrationBehaviors;
 
@@ -6,7 +6,7 @@ namespace Soenneker.Stripe.Enums.ProrationBehaviors;
 /// Stripe Proration behavior enum
 /// </summary>
 /// <remarks>https://docs.stripe.com/billing/subscriptions/prorations</remarks>
-[Intellenum<string>]
+[EnumValue<string>]
 public partial class StripeProrationBehavior
 {
     /// <summary>
