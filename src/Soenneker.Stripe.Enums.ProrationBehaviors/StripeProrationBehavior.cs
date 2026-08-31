@@ -3,7 +3,7 @@ using Soenneker.Gen.EnumValues;
 namespace Soenneker.Stripe.Enums.ProrationBehaviors;
 
 /// <summary>
-/// Stripe Proration behavior enum
+/// Represents how Stripe handles prorations for a subscription change.
 /// </summary>
 /// <remarks>https://docs.stripe.com/billing/subscriptions/prorations</remarks>
 [EnumValue<string>]
